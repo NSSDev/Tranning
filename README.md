@@ -1,1 +1,1 @@
-README 파일 생성 1
+Tranning Respository
